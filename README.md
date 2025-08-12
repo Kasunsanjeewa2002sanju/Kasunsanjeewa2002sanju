@@ -5,8 +5,9 @@
 **I am a motivated software engineering student passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
 
 🌱 **I’m currently learning**<br>-*Full-stack web development with React.js, Node.js, ASP.NET MVC<br>- Mobile app development with Kotlin,Android SDK and Flutter*
+![Profile Views](https://komarev.com/ghpvc/?username=Kasunsanjeewa2002sanju&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github)
+![Top Committer](https://user-badge.committers.top/sri_lanka_public/Kasunsanjeewa2002sanju.svg?v=1754893704&style=for-the-badge&logo=git)
 
-<img src="https://komarev.com/ghpvc/?username=Kasunsanjeewa2002sanju&label=Profile%20views&color=0e75b6&style=flat" alt="profile.views" /> ![Badge](https://user-badge.committers.top/sri_lanka_public/Kasunsanjeewa2002sanju.svg?v=1754893704)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kasun__sanjeewa__)
