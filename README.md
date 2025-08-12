@@ -2,7 +2,7 @@
 
 **I am a motivated software engineering student passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
 
-🌱 I’m currently learning<br>- Full-stack web development with React.js, Node.js, ASP.NET MVC<br>- Mobile app development with Kotlin,Android SDK and Flutter
+🌱 **I’m currently learning**<br>-*Full-stack web development with React.js, Node.js, ASP.NET MVC<br>- Mobile app development with Kotlin,Android SDK and Flutter*
 
 
 ## 🌐 Socials:
