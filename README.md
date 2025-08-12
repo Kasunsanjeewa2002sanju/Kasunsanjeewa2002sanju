@@ -6,6 +6,7 @@
 
 🌱 **I’m currently learning**<br>-*Full-stack web development with React.js, Node.js, ASP.NET MVC<br>- Mobile app development with Kotlin,Android SDK and Flutter*
 
+<img src="https://komarev.com/ghpvc/?username=Kasunsanjeewa2002sanju&label=Profile%20views&color=0e75b6&style=flat" alt="profile.views" /> ![Badge](https://user-badge.committers.top/sri_lanka_public/Kasunsanjeewa2002sanju.svg?v=1754893704)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_kasun__sanjeewa__)
