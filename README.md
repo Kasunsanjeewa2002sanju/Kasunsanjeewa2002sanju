@@ -60,6 +60,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)
 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/> 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Kasunsanjeewa2002sanju&theme=github_dark_dimmed&hide_border=true)<br/>
