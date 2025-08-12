@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/3e1f7f85-c157-476e-8cec-fccc8728c5c7)
+
 # 💫 About Me:
 
 **I am a motivated software engineering student passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
