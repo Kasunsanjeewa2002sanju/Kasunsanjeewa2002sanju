@@ -1,5 +1,9 @@
 ![image](https://github.com/user-attachments/assets/3e1f7f85-c157-476e-8cec-fccc8728c5c7)
 
+<h2>👨‍💻 Developer at Work</h2>
+<img src="https://media.giphy.com/media/26n6WywJyh39n1pBu/giphy.gif" alt="Boy Working on PC" width="300">
+
+
 # 💫 About Me:
 
 **I am a motivated software engineering student passionate about developing innovative and efficient solutions. I enjoy working on projects that challenge me to grow and apply best practices in software development. Committed to continuous learning, collaboration, and delivering high-quality results.**
