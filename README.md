@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/3e1f7f85-c157-476e-8cec-fccc8728c5c7)
-![image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGZoY2drY2U1dWE3aDR5c3llZTBvaWU4MmZ5M2hhY21qeWJwMjA3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif)
 
 # 💫 About Me:
 
