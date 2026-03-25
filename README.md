@@ -316,15 +316,6 @@ const kasun: Developer = {
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216124356-4b8f4748-4b5a-43a2-925f-a0dcd2fda397.png" width="30" /> Fun Stats
 
