@@ -188,88 +188,6 @@ const kasun: Developer = {
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Project Showcase
-
-> 🎬 **Click the thumbnails below to watch project demos!**
-> *(Replace `YOUR-VIDEO-ID` with your actual YouTube video IDs, and update repo links)*
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-1">
-        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-1/maxresdefault.jpg" width="100%" alt="Project 1 Demo"/>
-        <br/>
-        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>🚀 Project Name One</b><br/>
-      <sub>React · Node.js · MongoDB</sub><br/>
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-1">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-2">
-        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-2/maxresdefault.jpg" width="100%" alt="Project 2 Demo"/>
-        <br/>
-        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>📱 Project Name Two</b><br/>
-      <sub>Flutter · Firebase · Kotlin</sub><br/>
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-2">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logo=firebase&logoColor=black"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-3">
-        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-3/maxresdefault.jpg" width="100%" alt="Project 3 Demo"/>
-        <br/>
-        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>🎨 Project Name Three</b><br/>
-      <sub>Next.js · Tailwind · PostgreSQL</sub><br/>
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-3">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=flat-square&logo=netlify&logoColor=white"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-4">
-        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-4/maxresdefault.jpg" width="100%" alt="Project 4 Demo"/>
-        <br/>
-        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-      </a>
-      <br/><br/>
-      <b>⚙️ Project Name Four</b><br/>
-      <sub>Laravel · MySQL · REST API</sub><br/>
-      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-4">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
-      </a>
-      <a href="#">
-        <img src="https://img.shields.io/badge/Live_Demo-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
 
 <div align="center">
@@ -290,16 +208,6 @@ const kasun: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> &nbsp;
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Kasunsanjeewa2002sanju&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -315,19 +223,6 @@ const kasun: Developer = {
 </div>
 
 ---
-
-
-## <img src="https://user-images.githubusercontent.com/74038190/216124356-4b8f4748-4b5a-43a2-925f-a0dcd2fda397.png" width="30" /> Fun Stats
-
-<div align="center">
-
-```
-🔥 Languages         ████████████████████░░░░  JavaScript & TypeScript  
-⚡ Mobile            ████████████████░░░░░░░░  Flutter & React Native  
-🎨 Design            ████████████░░░░░░░░░░░░  Figma & Adobe Suite  
-☁️  Cloud & DevOps    ████████░░░░░░░░░░░░░░░░  AWS & GitHub Actions  
-🧠 Currently Learning ██████░░░░░░░░░░░░░░░░░░  System Design  
-```
 
 | ⚡ Metric | 🔢 Value |
 |-----------|---------|
@@ -347,15 +242,7 @@ const kasun: Developer = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="220" />
 
-<br/>
 
-### 💬 I'm open to...
-
-| 🚀 Collaboration | 💼 Freelance | 🌍 Open Source | 🎓 Mentorship |
-|:---:|:---:|:---:|:---:|
-| Team projects & hackathons | Web & mobile builds | Contributions & PRs | Learning together |
-
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/)
 [![Email](https://img.shields.io/badge/Gmail-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasunsanjeewa2002@gmail.com)
