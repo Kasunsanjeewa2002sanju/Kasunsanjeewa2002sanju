@@ -262,6 +262,6 @@ const kasun: Developer = {
 <!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,33:E100FF,66:00D9FF,100:00FF88&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=28&fontColor=FFFFFF&animation=twinkling" />
 
-© 2025 Kasun Sanjeewa · All rights reserved.
+© 2026 Kasun Sanjeewa · All rights reserved.
 
 </div>
