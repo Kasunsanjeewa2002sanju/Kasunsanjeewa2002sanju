@@ -1,128 +1,290 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    KASUN SANJEEWA — GITHUB README             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0A3D62,100:00D9FF&height=220&section=header&text=Kasun%20Sanjeewa&fontSize=62&fontColor=FFFFFF&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20UI%2FUX%20Designer&descSize=18&descAlignY=62&animation=fadeIn" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Web+Applications+%F0%9F%8C%90;Crafting+Seamless+Mobile+Experiences+%F0%9F%93%B1;Designing+Intuitive+%26+Beautiful+UI%2FUX+%F0%9F%8E%A8;Turning+Complex+Problems+into+Elegant+Solutions+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/)
-[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kasunsanjeewa2002sanju)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasunsanjeewa2002@gmail.com)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Kasunsanjeewa2002sanju&color=00D9FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Kasunsanjeewa2002sanju?color=00D9FF&style=flat-square&logo=github&label=Followers)
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7F00FF,25:E100FF,50:00D9FF,75:00FF88,100:FFD700&height=280&section=header&text=Kasun%20Sanjeewa&fontSize=68&fontColor=FFFFFF&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Mobile%20%7C%20UI%2FUX&descSize=19&descAlignY=62&animation=twinkling&stroke=FFFFFF&strokeWidth=2" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```typescript
-const kasun = {
-  name:        "Kasun Sanjeewa",
-  location:    "Kandy, Sri Lanka 🇱🇰",
-  education:   "BSc (Hons) Software Engineering @ SLIIT",
-
-  expertise: [
-    "Full-Stack Web Development",
-    "Mobile App Development",
-    "UI/UX Design",
-  ],
-
-  techStack: {
-    languages:  ["JavaScript", "TypeScript", "Python", "Java", "Kotlin", "C#", "C++", "R"],
-    frontend:   ["React", "Next.js", "React Native", "Flutter", "Tailwind CSS", "Bootstrap"],
-    backend:    ["Node.js", "Express.js", "NestJS", "Laravel", ".NET"],
-    databases:  ["MongoDB", "MySQL", "MS SQL Server", "Oracle", "Firebase", "SQLite"],
-    design:     ["Figma", "Adobe Photoshop", "Adobe Lightroom", "Canva"],
-    tools:      ["Git", "GitHub Actions", "Postman", "Jira", "Trello", "ClickUp"],
-  },
-
-  currentlyLearning: "System Design & Cloud Architecture ☁️",
-  openTo:            "Collaborations, freelance work & open-source contributions",
-  funFact:           "I craft UIs so clean, even the whitespace is intentional 😄",
-};
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🎨 Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### 🎨 Design & Creative
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobe-lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-
-### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasunsanjeewa2002sanju&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8&count_private=true" />
+<!-- CODING GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="coding gif" />
+
+<br/><br/>
+
+<!-- TYPING ANIMATION — multi-line, colorful -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=%F0%9F%8C%90+Full-Stack+Web+Applications+%E2%80%94+Built+to+Scale;%F0%9F%93%B1+Mobile+Apps+%E2%80%94+Android+%7C+Flutter+%7C+React+Native;%F0%9F%8E%A8+UI%2FUX+Design+%E2%80%94+Clean.+Bold.+Intuitive.;%F0%9F%92%A1+Problem+Solver+%E2%80%94+Code+is+my+superpower;%F0%9F%87%B1%F0%9F%87%B0+Proudly+Built+in+Sri+Lanka)](https://git.io/typing-svg)
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Kasunsanjeewa2002sanju&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
+<!-- SOCIAL BADGES — gradient style -->
+<a href="https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/">
+  <img src="https://img.shields.io/badge/LinkedIn-Kasun%20Sanjeewa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Kasunsanjeewa2002sanju">
+  <img src="https://img.shields.io/badge/GitHub-Kasunsanjeewa2002sanju-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:kasunsanjeewa2002@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-kasunsanjeewa2002-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- LIVE COUNTERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=Kasunsanjeewa2002sanju&color=7F00FF&style=for-the-badge&label=👁️+PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Kasunsanjeewa2002sanju?color=00D9FF&style=for-the-badge&logo=github&label=FOLLOWERS)
+![Top Committer](https://img.shields.io/badge/🇱🇰_Top_Committer-Sri%20Lanka-FF6B35?style=for-the-badge)
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="320" alt="dev gif" />
+
+```typescript
+const kasun: Developer = {
+  name        : "Kasun Sanjeewa",
+  location    : "Kandy, Sri Lanka 🇱🇰",
+  education   : "BSc (Hons) Software Engineering @ SLIIT",
+
+  expertise   : [
+    "⚡ Full-Stack Web Development",
+    "📱 Mobile App Development",
+    "🎨 UI/UX Design & Prototyping",
+  ],
+
+  languages   : ["JS", "TS", "Python", "Java", "Kotlin", "C#", "C++", "R"],
+  frontend    : ["React", "Next.js", "React Native", "Flutter", "Tailwind"],
+  backend     : ["Node.js", "Express", "NestJS", "Laravel", ".NET"],
+  databases   : ["MongoDB", "MySQL", "MSSQL", "Oracle", "Firebase"],
+  design      : ["Figma", "Photoshop", "Lightroom", "Canva"],
+
+  currentGoal : "Mastering System Design & Cloud Architecture ☁️",
+  openTo      : "Collabs · Freelance · Open Source · New Ideas 🚀",
+  motto       : "Ship fast. Iterate faster.",
+};
+```
+
+<br clear="right"/>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="34"/> Tech Universe
+
+<!-- ── LANGUAGES ── -->
+<details open>
+<summary><b>🌐 &nbsp;Languages</b></summary>
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<!-- ── FRONTEND & MOBILE ── -->
+<details open>
+<summary><b>🎨 &nbsp;Frontend &amp; Mobile</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<!-- ── BACKEND ── -->
+<details open>
+<summary><b>⚙️ &nbsp;Backend &amp; APIs</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black)
+
+</details>
+
+<!-- ── DATABASES ── -->
+<details open>
+<summary><b>🗄️ &nbsp;Databases</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
+
+<!-- ── DESIGN ── -->
+<details open>
+<summary><b>🖌️ &nbsp;Design &amp; Creative</b></summary>
+<br/>
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+![Adobe Lightroom Classic](https://img.shields.io/badge/Lightroom_Classic-31A8FF?style=for-the-badge&logo=adobe-lightroom-classic&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</details>
+
+<!-- ── TOOLS ── -->
+<details open>
+<summary><b>🛠️ &nbsp;Tools &amp; Workflow</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+</details>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6afb-4912-a111-64dc72e0f63c.png" width="30" /> What I Build
+
+<div align="center">
+
+| 🌐 Web Apps | 📱 Mobile Apps | 🎨 UI/UX Design |
+|:-----------:|:--------------:|:----------------:|
+| <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/> | <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"/> |
+| React · Next.js · Node | Flutter · React Native · Kotlin | Figma · Photoshop · Canva |
+| Scalable & performant | Cross-platform magic | Beautiful & pixel-perfect |
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Project Showcase
+
+> 🎬 **Click the thumbnails below to watch project demos!**
+> *(Replace `YOUR-VIDEO-ID` with your actual YouTube video IDs, and update repo links)*
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-1">
+        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-1/maxresdefault.jpg" width="100%" alt="Project 1 Demo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🚀 Project Name One</b><br/>
+      <sub>React · Node.js · MongoDB</sub><br/>
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-1">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=vercel&logoColor=black"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-2">
+        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-2/maxresdefault.jpg" width="100%" alt="Project 2 Demo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>📱 Project Name Two</b><br/>
+      <sub>Flutter · Firebase · Kotlin</sub><br/>
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-2">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-00FF88?style=flat-square&logo=firebase&logoColor=black"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-3">
+        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-3/maxresdefault.jpg" width="100%" alt="Project 3 Demo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>🎨 Project Name Three</b><br/>
+      <sub>Next.js · Tailwind · PostgreSQL</sub><br/>
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-3">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-7F00FF?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-4">
+        <img src="https://img.youtube.com/vi/YOUR-VIDEO-ID-4/maxresdefault.jpg" width="100%" alt="Project 4 Demo"/>
+        <br/>
+        <img src="https://img.shields.io/badge/▶_Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+      </a>
+      <br/><br/>
+      <b>⚙️ Project Name Four</b><br/>
+      <sub>Laravel · MySQL · REST API</sub><br/>
+      <a href="https://github.com/Kasunsanjeewa2002sanju/YOUR-REPO-4">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
+      </a>
+      <a href="#">
+        <img src="https://img.shields.io/badge/Live_Demo-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> GitHub Analytics
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="180" />
+
+<br/><br/>
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&icon_color=00D9FF&text_color=C9D1D9&include_all_commits=true&count_private=true&ring_color=7F00FF" />
+&nbsp;
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kasunsanjeewa2002sanju&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E100FF&text_color=C9D1D9&langs_count=8&count_private=true" />
+
+<br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Kasunsanjeewa2002sanju&theme=radical&hide_border=true&background=0D1117&stroke=E100FF&ring=7F00FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
@@ -132,7 +294,8 @@ const kasun = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Kasunsanjeewa2002sanju&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="28"/> &nbsp;
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Kasunsanjeewa2002sanju&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -142,38 +305,75 @@ const kasun = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kasunsanjeewa2002sanju&theme=github-compact&bg_color=0D1117&color=00D9FF&line=0A84FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kasunsanjeewa2002sanju&bg_color=0D1117&color=E100FF&line=7F00FF&point=00D9FF&area=true&area_color=7F00FF&hide_border=true&radius=8" />
 
 <br/>
 
+<!-- SNAKE ANIMATION — shows contribution history eating effect -->
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
 </div>
 
 ---
 
-### 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repositories
 
 <div align="center">
 
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Kasunsanjeewa2002sanju&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/216124356-4b8f4748-4b5a-43a2-925f-a0dcd2fda397.png" width="30" /> Fun Stats
 
 <div align="center">
 
-I'm always open to **collaborations**, **freelance projects**, and new **learning opportunities**.<br/>
-Whether you have a project in mind or just want to say hi — my inbox is always open!
+```
+🔥 Languages         ████████████████████░░░░  JavaScript & TypeScript  
+⚡ Mobile            ████████████████░░░░░░░░  Flutter & React Native  
+🎨 Design            ████████████░░░░░░░░░░░░  Figma & Adobe Suite  
+☁️  Cloud & DevOps    ████████░░░░░░░░░░░░░░░░  AWS & GitHub Actions  
+🧠 Currently Learning ██████░░░░░░░░░░░░░░░░░░  System Design  
+```
+
+| ⚡ Metric | 🔢 Value |
+|-----------|---------|
+| 💻 Years Coding | 3+ Years |
+| 🌐 Projects Built | 20+ |
+| 📱 Mobile Apps | 5+ |
+| 🎨 UI/UX Designs | 15+ |
+| ☕ Cups of Coffee | ∞ |
+
+</div>
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="220" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/)
-[![Email](https://img.shields.io/badge/Gmail-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasunsanjeewa2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kasunsanjeewa2002sanju)
+### 💬 I'm open to...
+
+| 🚀 Collaboration | 💼 Freelance | 🌍 Open Source | 🎓 Mentorship |
+|:---:|:---:|:---:|:---:|
+| Team projects & hackathons | Web & mobile builds | Contributions & PRs | Learning together |
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasun-sanjeewa-0b4152277/)
+[![Email](https://img.shields.io/badge/Gmail-Send_a_message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasunsanjeewa2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kasunsanjeewa2002sanju)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/KasunSanjeewa)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 
 <br/>
 
@@ -181,6 +381,9 @@ Whether you have a project in mind or just want to say hi — my inbox is always
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A3D62,100:0D1117&height=130&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=FFFFFF&animation=twinkling" />
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,33:E100FF,66:00D9FF,100:00FF88&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%9A%80&fontSize=28&fontColor=FFFFFF&animation=twinkling" />
+
+© 2025 Kasun Sanjeewa · All rights reserved.
 
 </div>
